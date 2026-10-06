@@ -253,7 +253,7 @@
     "correctIndex": 3
   },
   {
-  "question": "What is the Japanese word for "thank you"? (Community variation 11)",
+  "question": "What is the Japanese word for \"thank you\"? (Community variation 11)",
   "difficulty": "medium",
   "answers": [
     "Sumimasen",
@@ -262,5 +262,16 @@
     "Sayonara"
   ],
   "correctIndex": 1
+},
+{
+  "question": "What is the Japanese writing system used for foreign words? (Community variation 35)",
+  "difficulty": "medium",
+  "answers": [
+    "Katakana",
+    "Hiragana",
+    "Kanji",
+    "Romaji"
+  ],
+  "correctIndex": 0
 }
 ]
