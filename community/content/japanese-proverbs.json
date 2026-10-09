@@ -334,5 +334,17 @@
   "romaji": "Amadare ishi wo ugatsu",
   "english": "Dripping water pierces stone",
   "meaning": "Persistence can overcome great obstacles"
-}
+},
+  {
+  "japanese": "猫に鰹節",
+  "romaji": "Neko ni katsuobushi",
+  "english": "Dried bonito to a cat",
+  "meaning": "Leave temptation unattended at your own risk"
+  },
+  {
+    "japanese": "石橋を叩いて渡る",
+    "romaji": "Ishibashi wo tataite wataru",
+    "english": "Tap a stone bridge before crossing",
+    "meaning": "Be very cautious"
+  }
 ]
