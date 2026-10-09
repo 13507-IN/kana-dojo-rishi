@@ -362,5 +362,33 @@
   "english": "thank you",
   "region": "Kansai",
   "note": "Traditional gratitude expression. (Set 1)"
+},
+{
+  "dialect": "おおきに",
+  "standardJapanese": "ありがとう",
+  "english": "thank you",
+  "region": "Kansai",
+  "note": "Traditional gratitude expression. (Set 2)"
+},
+{
+  "dialect": "めっちゃ",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Kansai",
+  "note": "Now used nationwide. (Set 4)"
+},
+{
+  "dialect": "しばれる",
+  "standardJapanese": "とても寒い",
+  "english": "freezing cold",
+  "region": "Hokkaido",
+  "note": "Used for severe winter cold. (Set 3)"
+},
+{
+  "dialect": "〜へん",
+  "standardJapanese": "〜ない",
+  "english": "negative form",
+  "region": "Kansai",
+  "note": "Example: 食べへん = 食べない。 (Set 3)"
 }
 ]
