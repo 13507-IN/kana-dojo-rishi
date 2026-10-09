@@ -222,8 +222,10 @@
     "jlpt": "N2"
   },
   {
-    "japanese": "Konnichiwa",
-    "english": "Hello"
+    "japanese": "こんにちは",
+    "romaji": "Konnichiwa",
+    "english": "Hello",
+    "jlpt": "N5"
   },
   {
     "japanese": "彼は毎日図書館で勉強します。",
