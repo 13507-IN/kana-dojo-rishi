@@ -383,5 +383,12 @@
   "english": "freezing cold",
   "region": "Hokkaido",
   "note": "Used for severe winter cold. (Set 3)"
+},
+{
+  "dialect": "〜へん",
+  "standardJapanese": "〜ない",
+  "english": "negative form",
+  "region": "Kansai",
+  "note": "Example: 食べへん = 食べない。 (Set 3)"
 }
 ]
