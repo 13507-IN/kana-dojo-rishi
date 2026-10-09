@@ -291,14 +291,8 @@
   "romaji": "Kono hyougen wa bamen ni yotte shitsurei ni kikoeru koto ga aru.",
   "english": "This expression can sound rude depending on context.",
   "jlpt": "N2"
-}
-]
-{
-  "japanese": "週末は友達と映画を見に行くつもりです。",
-  "romaji": "Shuumatsu wa tomodachi o eiga o mi ni iku tsumori desu.",
-  "english": "I plan to go to a movie with friends this weekend.",
-  "jlpt": "N4"
-}
+},
+  
 {
   "japanese": "彼は毎日図書館で勉強します。",
   "romaji": "Kare wa mainichi toshokan de benkyou shimasu.",
@@ -310,4 +304,5 @@
   "romaji": "Kono mondai wa omotta yori muzukashiku nakatta.",
   "english": "This problem wasn't as hard as I expected.",
   "jlpt": "N3"
-},
+}
+]
