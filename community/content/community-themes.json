@@ -384,6 +384,7 @@
   "mainColor": "oklch(90.0% 0.015 95.0 / 1)",
   "secondaryColor": "oklch(58.0% 0.060 260.0 / 1)"
   },
+  {
     "id": "snow-lantern",
     "backgroundColor": "oklch(94.0% 0.012 250.0 / 1)",
     "mainColor": "oklch(50.0% 0.145 30.0 / 1)",
