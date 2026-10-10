@@ -390,5 +390,12 @@
   "english": "negative form",
   "region": "Kansai",
   "note": "Example: 食べへん = 食べない。 (Set 3)"
+},
+  {
+  "dialect": "めっちゃ",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Kansai",
+  "note": "Now used nationwide. (Set 3)"
 }
 ]
